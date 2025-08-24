@@ -3,11 +3,13 @@
 Projeto simples em **HTML + CSS** criado para estudo de **deploy e organização de sites estáticos**.  
 O objetivo é praticar publicação no **Netlify** e **Vercel**, além de aplicar boas práticas como separação de arquivos, README e LICENSE.
 
+## 🌐 Projeto online
+Acesse aqui: [site-kyan.netlify.app](https://site-kyan.netlify.app)
+
 ## 🚀 Tecnologias
 - HTML5
 - CSS3
 - Google Fonts (Poppins)
-
 
 ## 🎯 Funcionalidades
 - Página com biografia do artista **Kyan**
@@ -17,4 +19,5 @@ O objetivo é praticar publicação no **Netlify** e **Vercel**, além de aplica
 
 ## 📜 Licença
 Este projeto está sob a licença MIT – veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
